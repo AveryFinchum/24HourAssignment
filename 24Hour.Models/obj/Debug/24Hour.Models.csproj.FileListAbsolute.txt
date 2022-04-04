@@ -1,0 +1,16 @@
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\24Hour.Models.dll
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\24Hour.Models.pdb
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\obj\Debug\24Hour.Models.csproj.AssemblyReference.cache
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\obj\Debug\24Hour.Models.csproj.CoreCompileInputs.cache
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\obj\Debug\24Hour.Models.dll
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\obj\Debug\24Hour.Models.pdb
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\24Hour.Models.dll.config
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\EntityFramework.dll
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\EntityFramework.xml
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\avfin\Documents\Coding\ElevenFifty\Assignments\ElevenNote\24HourAssignment\24Hour.Models\obj\Debug\24Hour.Models.csproj.CopyComplete
