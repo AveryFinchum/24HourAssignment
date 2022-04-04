@@ -208,6 +208,7 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ReplyController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -308,17 +309,17 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\24Hour.Data\24Hour.Data.csproj">
+    <ProjectReference Include="..\24Hour.Data\24HourReply.Data.csproj">
       <Project>{5615ddb0-c9cd-441b-a8cd-de0ca323d388}</Project>
-      <Name>24Hour.Data</Name>
+      <Name>24HourReply.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\24Hour.Models\24Hour.Models.csproj">
+    <ProjectReference Include="..\24Hour.Models\24HourReply.Models.csproj">
       <Project>{8ebddd5c-339b-47fe-8342-20b5aaafad26}</Project>
-      <Name>24Hour.Models</Name>
+      <Name>24HourReply.Models</Name>
     </ProjectReference>
-    <ProjectReference Include="..\24Hour.Services\24Hour.Services.csproj">
+    <ProjectReference Include="..\24Hour.Services\24HourReply.Services.csproj">
       <Project>{61ca37b8-eb4c-4d9b-bfdb-70a3b215b040}</Project>
-      <Name>24Hour.Services</Name>
+      <Name>24HourReply.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

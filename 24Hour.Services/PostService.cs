@@ -44,12 +44,12 @@ namespace _24Hour.Services
                     .Select(
                     e =>
                         new PostListItem
-                        {
+                        { //New comment
                             PostId = e.PostId,
                             Title = e.Title
                         }
                         );
-                return query.ToArray(); //PLEASE LET THIS WORK
+                return query.ToArray(); //PLEASE LET THIS WORK sdfsdf.
             }
         }
     }

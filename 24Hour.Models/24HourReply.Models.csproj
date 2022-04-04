@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{61CA37B8-EB4C-4D9B-BFDB-70A3B215B040}</ProjectGuid>
+    <ProjectGuid>{8EBDDD5C-339B-47FE-8342-20B5AAAFAD26}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_24Hour.Services</RootNamespace>
-    <AssemblyName>24Hour.Services</AssemblyName>
+    <RootNamespace>_24Hour.Models</RootNamespace>
+    <AssemblyName>24Hour.Models</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -54,22 +54,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PostService.cs" />
+    <Compile Include="PostCreate.cs" />
+    <Compile Include="PostListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReplyCreate.cs" />
+    <Compile Include="ReplyDetail.cs" />
+    <Compile Include="ReplyEdit.cs" />
+    <Compile Include="ReplyListItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\24Hour.Data\24Hour.Data.csproj">
-      <Project>{5615ddb0-c9cd-441b-a8cd-de0ca323d388}</Project>
-      <Name>24Hour.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\24Hour.Models\24Hour.Models.csproj">
-      <Project>{8ebddd5c-339b-47fe-8342-20b5aaafad26}</Project>
-      <Name>24Hour.Models</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
